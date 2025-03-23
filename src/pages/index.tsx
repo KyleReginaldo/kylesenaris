@@ -220,7 +220,7 @@ export default function Home() {
                     <Button
                       component="a"
                       color="red"
-                      href="reginaldo-cv.pdf"
+                      href="kylesenaris.pdf"
                       download
                     >
                       Download CV
